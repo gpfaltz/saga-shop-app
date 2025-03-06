@@ -1,7 +1,7 @@
 # saga-shop-app
-Implementing Saga Pattern in a Shop Application - Part 01/03
+Implementing clearing transactions (orchestrated and choreographed) - Part 01/03
 
-Main Objective: Implementation of Orchestrated Saga and Choreographed Saga in a Shop Application
+Main Objective: Implementation of Orchestrated Saga and Choreographed Saga in a Credit Orders Application
 
 Pre requistes:
 JAVA 21 Installed
